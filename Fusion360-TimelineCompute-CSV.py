@@ -15,7 +15,7 @@ def run(context):
         
         # Set styles of file dialog.
         folderDlg = ui.createFolderDialog()
-        folderDlg.title = "Choose Folder to save graphviz Graph"
+        folderDlg.title = "Choose Folder to save CSV file"
 
         # Show file save dialog
         dlgResult = folderDlg.showDialog()
