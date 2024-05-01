@@ -2,3 +2,4 @@
 # install dependencies for the plot script
 pip install matplotlib
 pip install pandas
+pip install tk
